@@ -1,6 +1,8 @@
 # Projeto Banco de Dados - Análise de Lutas
 Estratégia Baseada em Dados: Criando um Sistema para Análise de Lutas
 
+<img width="640" height="378" alt="image" src="https://github.com/user-attachments/assets/286531ef-707a-4163-abb7-b46cbc09d023" />
+
 Nos últimos dias, venho desenvolvendo meu primeiro projeto solo de banco de dados voltado à análise de desempenho no universo das artes marciais. A ideia nasceu da vontade de entender como dados podem revelar padrões de sucesso dentro e fora do tatame. Para isso, construí toda a estrutura do zero, desde a modelagem até consultas que transformam resultados em informações estratégicas, usando o Oracle Live e o DBeaver.
 
 O sistema abrange academias, atletas, campeonatos e lutas, permitindo uma visão integrada do cenário competitivo. Já é possível identificar academias com maior taxa de vitórias por finalização, calcular o tempo médio de vitória, analisar a eficiência dos competidores e acompanhar a evolução de técnicas e estratégias ao longo do tempo.
